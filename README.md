@@ -1,6 +1,6 @@
-# <p align="center"> <b> Curso: Pandas - Formatos diferentes de entrada e saída (IO) </b> 
+# <p align="center"> <b> Curso: Pandas - Formatos diferentes de entrada e saída </b> 
 
-####  ✏️ Curso da plataforma Alura <a href="https://cursos.alura.com.br/course/pandas-io">link</a> 
+####  ✏️ Curso da plataforma <a href="https://cursos.alura.com.br/course/pandas-io">Alura</a> 
 ####  ⏰ Duração: 6h 
 ####  📜 Conteúdo:
 - Análise de dados com pandas
